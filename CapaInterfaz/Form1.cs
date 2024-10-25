@@ -32,5 +32,15 @@ namespace CapaInterfaz
 
             }
         }
+
+        private void LabelUsuario_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void BtnIniciar_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
