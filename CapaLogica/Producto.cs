@@ -13,13 +13,16 @@ namespace CapaLogica
         public int precio;
         public string tipo;
 
-        public Producto() { 
-        
+        public Producto()
+        {
+
         }
-        public Producto(string nombre,int codigo, int precio,string tipo) {
+        public Producto(string nombre, int codigo, int precio, string tipo)
+        {
             this.nombre = nombre;
             this.codigo = codigo;
             this.precio = precio;
             this.tipo = tipo;
+        }
     }
 }

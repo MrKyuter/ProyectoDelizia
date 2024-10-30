@@ -14,9 +14,14 @@ namespace CapaLogica
         public int id_cliente;
         public int preciototal;
 
-        public Pedido(string estado,) {
+        public Pedido(string estado, int id, DateTime fecha, int id_cliente, int preciototal) {
         
-        
+        this.estado = estado;
+            this.id = id;
+            this.fecha = fecha;     
+            this.id_cliente = id_cliente;
+            this.preciototal = preciototal;
+
         
         }
 
