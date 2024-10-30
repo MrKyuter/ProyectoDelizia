@@ -1,6 +1,6 @@
 ﻿namespace CapaInterfaz
 {
-    partial class FormularioProductos
+    partial class FormularioRepartidor
     {
         /// <summary> 
         /// Variable del diseñador necesaria.
@@ -28,16 +28,8 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.SuspendLayout();
-            // 
-            // FormularioProductos
-            // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            components = new System.ComponentModel.Container();
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.Name = "FormularioProductos";
-            this.Size = new System.Drawing.Size(157, 164);
-            this.ResumeLayout(false);
-
         }
 
         #endregion

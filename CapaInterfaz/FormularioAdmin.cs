@@ -10,7 +10,7 @@ using System.Windows.Forms;
 
 namespace CapaInterfaz
 {
-    public partial class FormularioAdmin : Form
+    public partial class FormularioAdmin : UserControl
     {
         public FormularioAdmin()
         {

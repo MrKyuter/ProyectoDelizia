@@ -10,21 +10,11 @@ using System.Windows.Forms;
 
 namespace CapaInterfaz
 {
-    public partial class FormularioCliente : Form
+    public partial class FormularioRepartidor : UserControl
     {
-        public FormularioCliente()
+        public FormularioRepartidor()
         {
             InitializeComponent();
-        }
-
-        private void textBox1_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void label2_Click(object sender, EventArgs e)
-        {
-
         }
     }
 }

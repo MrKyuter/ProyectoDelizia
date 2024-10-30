@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace CapaInterfaz
 {
-    public partial class FormularioProductos : UserControl
+    public partial class FormularioPedido : UserControl
     {
-        public FormularioProductos()
+        public FormularioPedido()
         {
             InitializeComponent();
         }
